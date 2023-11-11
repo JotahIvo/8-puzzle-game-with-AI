@@ -10,7 +10,7 @@
 #### Instalando na sua máquina:
 
 ```bash
-$ git clone ...
+$ git clone https://github.com/JotahIvo/8-puzzle-game-with-AI.git
 $ cd 8-puzzle-game
 ```
 
