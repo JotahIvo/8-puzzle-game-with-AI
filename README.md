@@ -1,11 +1,12 @@
 # IA para jogar 8 Puzzle Game.
 
-## IA criada para resolver o jogo 8 Puzzle, utilizando o algoritmo de busca A*.
+## IA criada para resolver o jogo 8 Puzzle, utilizando o algoritmo de busca A\*.
 
 > O código fonte está escrito em inglês, porém o programa roda em português.
 
 ### Como rodar na sua máquina?
- * É necessário ter o Python instalado em sua última versão.
+
+- É necessário ter o Python instalado em sua última versão.
 
 #### Instalando na sua máquina:
 
@@ -15,6 +16,7 @@ $ cd 8-puzzle-game
 ```
 
 #### Executando:
+
 ```bash
 $ python puzzle8_ia.py
 ```
@@ -34,3 +36,5 @@ O estado inicial é completamente aleatório e é garantido que ele tenha soluç
 A Heurística escolhida para a busca foi a "Distância de quarteirão", que é soma das distâncias dos elementos no seu estado atual até seu estado final.
 
 ## Obrigado!
+
+Adicionando linha de teste
