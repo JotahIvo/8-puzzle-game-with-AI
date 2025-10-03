@@ -37,4 +37,4 @@ A Heurística escolhida para a busca foi a "Distância de quarteirão", que é s
 
 ## Obrigado!
 
-Estou adicionando isso para testar commits
+Estou adicionando isso para testar commits, agora vou adicionar mais esse aqui.
