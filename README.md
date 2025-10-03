@@ -36,5 +36,3 @@ O estado inicial é completamente aleatório e é garantido que ele tenha soluç
 A Heurística escolhida para a busca foi a "Distância de quarteirão", que é soma das distâncias dos elementos no seu estado atual até seu estado final.
 
 ## Obrigado!
-
-Estou adicionando isso para testar commits, agora vou adicionar mais esse aqui.
