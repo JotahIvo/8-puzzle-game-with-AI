@@ -13,7 +13,7 @@ def main():
                 ]
 
 
-    def check_possibility_of_solution(state): # verifica a paridade do estado, caso for par, então há solução
+    def check_possibility_of_solution(state):
         arr_state = []
         parity = 0
         for arr in state:
@@ -79,7 +79,6 @@ def main():
             print(row)
 
 
-    #funções de movimento no tabuleiro
     def move_down(state):
         i, j = find_element(state, 0)
         if i < 2:
@@ -112,7 +111,6 @@ def main():
         return state
 
 
-    #criando no
     def create_node(state, parent_node, g=0):
         h = g + distance_between_elements(state, final_state)
         return Node(state, parent_node, g, h)
@@ -184,7 +182,6 @@ def main():
         return 0, n_movements
 
 
-    # comandos:
     while True:
         os.system("clear")
         initial_state = shuffle_numbers()
