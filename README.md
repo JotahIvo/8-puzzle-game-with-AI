@@ -37,4 +37,4 @@ A Heurística escolhida para a busca foi a "Distância de quarteirão", que é s
 
 ## Obrigado!
 
-testando
+testando o rag
